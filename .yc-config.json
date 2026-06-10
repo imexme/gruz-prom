@@ -1,0 +1,8 @@
+{
+  "functionName": "prowork-nextjs",
+  "runtime": "nodejs18",
+  "entrypoint": "index.handler",
+  "memory": "512m",
+  "timeout": "30s",
+  "description": "ProWork - Next.js application deployed to Yandex Cloud Functions"
+}
